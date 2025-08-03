@@ -46,5 +46,6 @@ SELECT birth_date FROM parks_and_recreation.employee_demographics;
 -- Perform a simple calculation
 SELECT age, age + 10 FROM parks_and_recreation.employee_demographics;
 
+
 -- Find unique gender values
 SELECT DISTINCT gender FROM parks_and_recreation.employee_demographics;
